@@ -1,9 +1,9 @@
 <!----------------------------------- Banner - GeekyShows ------------------------------------>
-[![MasterHead](https://github.com/HamzaManzoorUIUX/HamzaManzoorUIUX/blob/master/public/assets/images/Gethub-Cover.jpg)](#)
+[![MasterHead](https://github.com/HamzaManzoorUIUX/HamzaManzoorUIUX/blob/main/images/Gethub-Cover.jpg)](#)
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
-  <img align="right" width="150" alt="Coding" src="https://github.com/HamzaManzoorUIUX/HamzaManzoorUIUX/blob/master/images/hamza.png">
+  <img align="right" width="150" alt="Coding" src="https://github.com/HamzaManzoorUIUX/HamzaManzoorUIUX/blob/main/images/hamza.png">
   <a href="https://github.com/HamzaManzoorUIUX?tab=followers">
      <img align="right" src="https://img.shields.io/github/followers/HamzaManzoorUIUX?label=Followers&style=social" alt="followers-count">
   </a>

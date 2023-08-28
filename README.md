@@ -73,7 +73,7 @@
   <a href="https://www.instagram.com/mirzahamza3434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mirzahamza3434" height="30" width="40" /></a>
   <a href="https://www.youtube.com/user/wallaygamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wallaygamer" height="30" width="40" /></a>
   <a href="https://www.hamzamanzoor.com" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_p-512.png" alt="portfolio" height="30" width="30" /></a>
-  <a href="./cv/Hamza Manzoor.pdf" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/DarkGlass_Reworked/128x128/filesystems/folder_download.png" alt="CV Download" height="30" width="30" /></a>
+  <a href="./cv/Hamza Manzoor.pdf" target="blank" download><img align="center" src="https://cdn1.iconfinder.com/data/icons/DarkGlass_Reworked/128x128/filesystems/folder_download.png" alt="CV Download" height="30" width="30" /></a>
 </p>
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>

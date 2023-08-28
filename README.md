@@ -8,7 +8,11 @@
      <img align="right" src="https://img.shields.io/github/followers/HamzaManzoorUIUX?label=Followers&style=social" alt="followers-count">
   </a>
   <h3>Hi, I'm Hamza Manzoor</h3>
-  <p>I am Full Stack Web and Android App Developer. I am also an Educator. I teach on HMZones</P> 
+  <p>I am Full Stack Web and Android App Developer. I am also an Educator. I teach on HMZones</p> 
+<p>
+  <a href="https://hamzamanzoor.com/assets/cv/Hamza%20Manzoor.pdf" target="_blank" download><img align="center" src="https://cdn1.iconfinder.com/data/icons/DarkGlass_Reworked/128x128/filesystems/folder_download.png" alt="CV Download" height="50" width="50" /></a>
+  <span>Download CV</span>
+</p>
 </div>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
